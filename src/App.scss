@@ -1,0 +1,4 @@
+.link {
+	composes: text-decoration-none from 'styles';
+	composes: black from 'styles';
+}
